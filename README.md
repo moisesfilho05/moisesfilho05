@@ -6,18 +6,18 @@ Me chamo Marcos Moisés da Conceição Filho, tenho 20 anos e sou natural da Bah
 Acredito que grandes resultados nascem de pequenas evoluções diárias. Estou em constante busca por conhecimento e experiências que me desafiem como desenvolvedor e como pessoa.
 
 <p align="left">
-    <a href="https://github.com/moisesfilho?tab=repositories&sort=stargazers">
+    <a href="https://github.com/moisesfilho05?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/moisesfilho?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/moisesfilho05?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/moisesfilho?tab=followers">
+    <a href="https://github.com/moisesfilho05?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/moisesfilho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/moisesfilho05?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/desenvolvedor-front-end-developer">
